@@ -1,0 +1,13 @@
+body{
+  background-image: url(flag.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  }
+h1{
+    font-size: 75px;
+    font-style: italic;
+    color: indigo;  
+    text-align: center;
+    margin-top: 20%;
+}
