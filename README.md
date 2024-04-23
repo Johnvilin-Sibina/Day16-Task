@@ -1,5 +1,7 @@
-This repository contains the files for day 16 Callback Hell task.
-The file flag.jpg contains the image displayed in the background.
-The file index.html can be used to run the code in the browser.
-The file script.js contains the Javascript code for the task. In this file I have created all the html elements required dynamically.
-The file index.css is the stylesheet for the HTML file.
+<h1>Day 16 Task - Callback Hell</h1>
+<ul>
+  <li>The HTML element needed is created using DOM.</li>
+  <li>setTimeout method is used to complete the task.</li>
+</ul>
+<h4>Deployment URL:</h4>
+<a href="https://inspiring-cactus-2e2fa0.netlify.app/" target="_blank">https://inspiring-cactus-2e2fa0.netlify.app/</a>
